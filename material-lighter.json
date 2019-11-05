@@ -1,0 +1,21 @@
+{
+    "name": "Material Lighter",
+    "background": "#fafafa",
+    "foreground": "#90a4ae",
+    "black": "#000000",
+    "blue": "#6182b8",
+    "brightBlack": "#90a4ae",
+    "brightBlue": "#6182b8",
+    "brightCyan": "#39adb5",
+    "brightGreen": "#91b859",
+    "brightPurple": "#7c4dff",
+    "brightRed": "#e53935",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#ffb62c",
+    "cyan": "#39adb5",
+    "green": "#91b859",
+    "purple": "#7c4dff",
+    "red": "#e53935",
+    "white": "#ffffff",
+    "yellow": "#ffb62c"
+}

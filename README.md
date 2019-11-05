@@ -1,12 +1,12 @@
 # Material Color Scheme for [Windows Terminal](https://github.com/microsoft/terminal)
-A material color scheme for [Windows Terminal](https://github.com/microsoft/terminal).
+A port of the [Material Theme](https://github.com/material-theme/vsc-material-theme) for [Windows Terminal](https://github.com/microsoft/terminal).
 
 ![Screenshot](https://raw.githubusercontent.com/julianlatest/material-windows-terminal/master/screenshot.png)
 
 
 ## Install
 
-In the `profile.json` settings file for Windows Terminal, find the `schemes` section and add the the following to the list:
+In the `profile.json` settings file for Windows Terminal, find the `schemes` section and add the colors of the desired variant to the list:
 
 ```json
 {
