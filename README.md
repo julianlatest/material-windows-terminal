@@ -71,18 +71,24 @@ Example:
             ...
         }
     "profiles" :
-    [
+    {
+        "defaults":
         {
-            "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
-            "hidden": false,
-            "name": "PowerShell Core",
-            "source": "Windows.Terminal.PowershellCore",
-            "startingDirectory": null,
             "fontFace": "CascadiaCode Nerd Font",
             "fontSize": 10,
-            "colorScheme": "Material"
-        }
-    ],
+        },
+        "list":
+        [
+            {
+                "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+                "hidden": false,
+                "name": "PowerShell Core",
+                "source": "Windows.Terminal.PowershellCore",
+                "startingDirectory": null,
+                "colorScheme": "Material"
+            }
+        ]
+    },
     "schemes" :
     [
         {
