@@ -1,6 +1,14 @@
 # Material Color Scheme for [Windows Terminal](https://github.com/microsoft/terminal)
 A port of the [Material Theme](https://github.com/material-theme/vsc-material-theme) for [Windows Terminal](https://github.com/microsoft/terminal).
 
+Schemes from left to right:
+
+* Material Darker
+* Material Lighter
+* Material
+* Material Palenight
+* Material Ocean
+
 ![Screenshot](https://raw.githubusercontent.com/julianlatest/material-windows-terminal/master/screenshot.png)
 
 
