@@ -21,7 +21,7 @@
 },
 {
     "name": "Material High Contrast",
-    "background": "#263238",
+    "background": "#192227",
     "foreground": "#eeffff",
     "black": "#000000",
     "blue": "#82aaff",
@@ -63,7 +63,7 @@
 },
 {
     "name": "Material Darker High Contrast",
-    "background": "#212121",
+    "background": "#1a1a1a",
     "foreground": "#eeffff",
     "black": "#000000",
     "blue": "#82aaff",
@@ -105,7 +105,7 @@
 },
 {
     "name": "Material Lighter High Contrast",
-    "background": "#ffffff",
+    "background": "#fafafa",
     "foreground": "#90a4ae",
     "black": "#000000",
     "blue": "#6182b8",
@@ -147,7 +147,7 @@
 },
 {
     "name": "Material Ocean High Contrast",
-    "background": "#0f111a",
+    "background": "#090b10",
     "foreground": "#a6accd",
     "black": "#000000",
     "blue": "#82aaff",
@@ -189,7 +189,7 @@
 },
 {
     "name": "Material Palenight High Contrast",
-    "background": "#292d3e",
+    "background": "#1b1e2b",
     "foreground": "#a6accd",
     "black": "#000000",
     "blue": "#82aaff",
